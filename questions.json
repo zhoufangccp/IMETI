@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "text": "你印象最深的老师的姓是？",
+    "options": [
+      {
+        "text": "何",
+        "target_type": "R1",
+        "score": 1
+      },
+      {
+        "text": "刘",
+        "target_type": "R2",
+        "score": 1
+      },
+      {
+        "text": "王",
+        "target_type": "R3",
+        "score": 1
+      },
+      {
+        "text": "李/倪",
+        "target_type": "R4",
+        "score": 1
+      },
+       {
+        "text": "何1",
+        "target_type": "R5",
+        "score": 1
+      },
+      {
+        "text": "刘1",
+        "target_type": "R6",
+        "score": 1
+      },
+      {
+        "text": "王1",
+        "target_type": "R7",
+        "score": 1
+      },
+      {
+        "text": "李/倪1",
+        "target_type": "R8",
+        "score": 1
+      }, {
+        "text": "何2",
+        "target_type": "R9",
+        "score": 1
+      },
+      {
+        "text": "刘2",
+        "target_type": "R10",
+        "score": 1
+      },
+      {
+        "text": "王2",
+        "target_type": "R11",
+        "score": 1
+      },
+      {
+        "text": "李/倪2",
+        "target_type": "R12",
+        "score": 1
+      }
+    ]
+  }
+]
