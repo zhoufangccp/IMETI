@@ -5,7 +5,7 @@
     "type": "single",
     "options": [
       { "text": "何", "target_type": "R1", "score": 2 },
-      { "text": "刘", "target_type": "R2", "score": 2 },
+      { "text": "刘", "target_type": "R2", "score": 3 },
       { "text": "王", "target_type": "R3", "score": 2 },
       { "text": "李/倪", "target_type": "R8", "score": 2 }
     ]
@@ -49,7 +49,7 @@
     "type": "single",
     "options": [
       { "text": "梦龙与陈琳", "target_type": "R3", "score": 2 },
-      { "text": "悯朋不许", "target_type": "R11", "score": 3 },
+      { "text": "悯朋不许", "target_type": "R11", "score": 2 },
       { "text": "源远刘长", "target_type": "R2", "score": 2 }
     ]
   },
@@ -100,7 +100,7 @@
     "text": "假如医大有早八，你到教室的时间是",
     "type": "single",
     "options": [
-      { "text": "7：55以前", "target_type": "R1", "score": 3 },
+      { "text": "7：55以前", "target_type": "R1", "score": 5 },
       { "text": "7：55-8：10", "target_type": "R5", "score": 2 },
       { "text": "8：10-8：30", "target_type": "R4", "score": 2 },
       { "text": "9：00以后", "target_type": "R10", "score": 3 }
@@ -146,7 +146,7 @@
       { "text": "预处理", "target_type": "R11", "score": 2 },
       { "text": "图像配准", "target_type": "R3", "score": 2 },
       { "text": "分割与目标检测", "target_type": "R8", "score": 3 },
-      { "text": "多模态交互", "target_type": "R11", "score": 4 }
+      { "text": "多模态交互", "target_type": "R9", "score": 2 }
     ]
   },
   {
@@ -154,7 +154,7 @@
     "text": "假如你现在突然接到通知，学院请你给同学们讲授《神经工程学》这门课，你会？",
     "type": "single",
     "options": [
-      { "text": "每节课都穿西装去上课，当一个strong哥", "target_type": "R11", "score": 5 },
+      { "text": "每节课都穿西装去上课，当一个strong哥", "target_type": "R11", "score": 3 },
       { "text": "不上课，把任务交给研究生和博士生们，带本科小孩参观实验室就好", "target_type": "R5", "score": 3 },
       { "text": "上课按花名册依次往下点，回答不上来的直接罚站，直到有人回答出问题为止", "target_type": "R6", "score": 2 }
     ]
@@ -166,7 +166,7 @@
     "options": [
       { "text": "下水道烤串！人人有份！我刚刚躲起来啦~哈哈哈~呃~嗯~", "target_type": "R6", "score": 5 },
       { "text": "死亡如风，常伴吾身。一剑诛恶，一剑镇魂。", "target_type": "R10", "score": 4 },
-      { "text": "我还以为你从来都不会选我呢……一轮新月正在冉冉升起", "target_type": "R12", "score": 4 },
+      { "text": "我还以为你从来都不会选我呢……一轮新月正在冉冉升起", "target_type": "R12", "score": 3 },
       { "text": "来支舞吧？我怎能拒绝共舞一曲的邀请呢。", "target_type": "R5", "score": 3 }
     ]
   },
@@ -181,7 +181,7 @@
       { "text": "学四二楼", "target_type": "R2", "score": 5 },
       { "text": "关中老碗咥面", "target_type": "R2", "score": 2 },
       { "text": "安琪餐室", "target_type": "R7", "score": 3 },
-      { "text": "刘记包子铺", "target_type": "R4", "score": 1 }
+      { "text": "刘记包子铺", "target_type": "R4", "score": 2 }
     ]
   },
   {
@@ -189,16 +189,16 @@
     "text": "在梦中你更有可能梦到以下哪个词",
     "type": "multiple",
     "options": [
-      { "text": "李昌浩", "target_type": "R11", "score": 3 },
+      { "text": "李昌浩", "target_type": "R11", "score": 2 },
       { "text": "P300", "target_type": "R8", "score": 2 },
       { "text": "conda activate", "target_type": "R8", "score": 3 },
       { "text": "功能性电刺激", "target_type": "R3", "score": 2 },
-      { "text": "X射线", "target_type": "R3", "score": 2 },
+      { "text": "X射线", "target_type": "R3", "score": 3 },
       { "text": "柯镇恶", "target_type": "R6", "score": 1 },
       { "text": "heaven", "target_type": "R7", "score": 3 },
-      { "text": "迟后-超前", "target_type": "R12", "score": 3 },
+      { "text": "迟后-超前", "target_type": "R12", "score": 2 },
       { "text": "sternal angle", "target_type": "R3", "score": 3 },
-      { "text": "频率编码-相位编码-梯度磁场", "target_type": "R12", "score": 4 }
+      { "text": "频率编码-相位编码-梯度磁场", "target_type": "R12", "score": 2 }
     ]
   },
   {
@@ -208,7 +208,7 @@
     "options": [
       { "text": "面向探店博主复杂开放进食场景下味觉反馈型脑机接口的化学感觉神经编解码与闭环传输机制研究", "target_type": "R7", "score": 4 },
       { "text": "长期头皮脑电监测中，超导介质对角质层屏障的生物相容性分析及海飞丝洗发水在其中产生的交互性创伤愈合机制", "target_type": "R6", "score": 5 },
-      { "text": "面向《复仇者联盟5》中超高动态沉浸式视觉刺激场景的穿戴式脑电非平稳运动伪影消除与自适应滤波机制研究", "target_type": "R11", "score": 4 },
+      { "text": "面向《复仇者联盟5》中超高动态沉浸式视觉刺激场景的穿戴式脑电非平稳运动伪影消除与自适应滤波机制研究", "target_type": "R11", "score": 3 },
       { "text": "基于跨模态影像配准的颌面部精准软组织重塑形态学差异定量评估及个性化医美方案预测模型", "target_type": "R5", "score": 3 }
     ]
   },
@@ -228,7 +228,7 @@
     "text": "你在医学院教学楼迷路时，墙上突然浮现一行字。你认为哪一行最可能是给你的提示？",
     "type": "single",
     "options": [
-      { "text": "白烟入砚，艳如血染，茹毛饮血补实验", "target_type": "R11", "score": 4 },
+      { "text": "白烟入砚，艳如血染，茹毛饮血补实验", "target_type": "R11", "score": 2 },
       { "text": "陈年旧示波器，龙飞凤舞焊锡，不如你", "target_type": "R2", "score": 5 },
       { "text": "安心骑行，兴伟业者，头盔不戴，伟绩全无", "target_type": "R10", "score": 4 },
       { "text": "流云开处，凯风自南，吹散你的单片机代码", "target_type": "R8", "score": 4 }
@@ -262,7 +262,7 @@
     "text": "人生若只如初见，如果再次分流，你仍会选择IME",
     "type": "single",
     "options": [
-      { "text": "是", "target_type": "R12", "score": 5 },
+      { "text": "是", "target_type": "R12", "score": 3 },
       { "text": "maybe", "target_type": "R4", "score": 3 },
       { "text": "否", "target_type": "R10", "score": 5 }
     ]
