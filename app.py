@@ -12,7 +12,7 @@ st.set_page_config(page_title="IMETI", layout="centered", page_icon="🧬")
 # ================= 2. 读取配置 & 动态计算最高分 =================
 @st.cache_data
 def load_questions():
-    with open('questions.json', 'r', encoding='utf-8') as f:
+    with open('questionss.json', 'r', encoding='utf-8') as f:
         return json.load(f)
 
 
