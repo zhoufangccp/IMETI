@@ -256,7 +256,7 @@ else:
         normalized_scores = {}
         for r_code, score in scores.items():
             # 获取该人格的理论最高分，如果找不到默认给 1 防止除以 0
-            max_possible = MAX_SCORES.get(r_code, 1)
+            max_possible = MAX_SCORES.get(r_code, 1) + 2
             normalized_scores[r_code] = score / max_possible
 
         # 2. 找到最高的契合度比例
