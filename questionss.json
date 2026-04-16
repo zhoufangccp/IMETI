@@ -100,10 +100,10 @@
     "text": "假如医大有早八，你到教室的时间是",
     "type": "single",
     "options": [
-      { "text": "7：55以前", "target_type": "R1", "score": 5 },
-      { "text": "7：55-8：10", "target_type": "R5", "score": 2 },
+      { "text": "7：50以前", "target_type": "R1", "score": 5 },
+      { "text": "7：50-8：10", "target_type": "R5", "score": 2 },
       { "text": "8：10-8：30", "target_type": "R4", "score": 2 },
-      { "text": "9：00以后", "target_type": "R10", "score": 3 }
+      { "text": "偶尔9：00以后", "target_type": "R10", "score": 3 }
     ]
   },
   {
@@ -189,15 +189,17 @@
     "text": "在梦中你更有可能梦到以下哪个词",
     "type": "multiple",
     "options": [
+      { "text": "柯镇恶", "target_type": "R6", "score": 1 },
       { "text": "李昌浩", "target_type": "R11", "score": 2 },
+      { "text": "sternal angle", "target_type": "R3", "score": 3 },
       { "text": "P300", "target_type": "R8", "score": 2 },
       { "text": "conda activate", "target_type": "R8", "score": 3 },
       { "text": "功能性电刺激", "target_type": "R3", "score": 2 },
       { "text": "X射线", "target_type": "R3", "score": 3 },
-      { "text": "柯镇恶", "target_type": "R6", "score": 1 },
+      
       { "text": "heaven", "target_type": "R7", "score": 3 },
       { "text": "迟后-超前", "target_type": "R12", "score": 2 },
-      { "text": "sternal angle", "target_type": "R3", "score": 3 },
+      
       { "text": "频率编码-相位编码-梯度磁场", "target_type": "R12", "score": 2 }
     ]
   },
